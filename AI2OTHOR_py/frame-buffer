@@ -1,0 +1,21 @@
+#taken from https://gist.github.com/jterrace/2911875
+        XVFB=/usr/bin/Xvfb
+        XVFBARGS=":1 -screen 0 1024x768x24 -ac +extension GLX +render -noreset"
+        PIDFILE=./frame-buffer.pid
+        case "$1" in
+        start)
+            /sbin/start-stop-daemon --start --quiet --pidfile $PIDFILE --make-pidfile --background --exec $XVFB -- $XVFBARGS
+            ;;
+        stop)
+            /sbin/start-stop-daemon --stop --quiet --pidfile $PIDFILE
+            rm $PIDFILE
+            ;;
+        restart)
+            $0 stop
+            $0 start
+            ;;
+        *)
+                exit 1
+        esac
+        exit 0
+            
