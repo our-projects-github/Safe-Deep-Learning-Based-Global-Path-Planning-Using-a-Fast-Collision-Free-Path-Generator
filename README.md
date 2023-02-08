@@ -27,10 +27,7 @@
 
 <div align = left>
   
-hello :)
-    dalam :)
-        gooshim khamoosh boode alan miam
-    
+#### AI2THOR_py    
     
 - <strong> ai2thorgeneratepatches: </strong> contain a function that displays polygons of the considered environment in AI2THOR.
     
