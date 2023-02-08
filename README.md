@@ -34,7 +34,7 @@
 
 <div align = left> 
 
-#### Steps
+#### ⚙Usage Steps
 1. clone the repository in your google drive. 
 2. use the main or main_test a sample notebooks. 
 3. In the second cell of the notebooks, you can change the root directory for accessing AI2THOR_py folder.
@@ -45,7 +45,7 @@
 
 <strong>Use it for doing all the project from the scratch.</strong>
 
-dad
+At first, it gets the number of your desired environment between 194 different AI2THOR environments. Then it creates a map containing polygonal obstacles
 
  
 
