@@ -14,7 +14,7 @@ from matplotlib.collections import PatchCollection
 import matplotlib.pyplot as plt
 import ai2thorgeneratepatches as aigp
 
-"""# generate patches"""
+"""# generate samples"""
 
 def check_collision(points, object_c):
     decisions = [p.contains_point(points,radius=2) for p in object_c]
