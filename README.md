@@ -44,7 +44,7 @@
 - <strong> ai2thorloss: </strong> tensorflow implementation of the MSE-NER and keras implementation of the MSE loss functions.
     
     
-- <strong> ai2thorloss: </strong> implementation of the LSTM network (OracleNet) used for path planning.
+- <strong> ai2thormodel: </strong> implementation of the LSTM network (OracleNet) used for path planning.
     
     
 - <strong> ai2thortrain: </strong> contains functions that train the LSTM network using the processed data created by GB method and save the model.
