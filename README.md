@@ -10,13 +10,12 @@
 
 2. Erfan Ashtari: https://scholar.google.com/citations?user=HAQgK8UAAAAJ&hl=en
 
-
-
-
-
+## Refrences
 🤖 AI2THOR
 - Link: https://ai2thor.allenai.org/
 
 🦾 AI2THOR Full-Starter
 - Link: https://colab.research.google.com/github/allenai/ai2thor-colab/blob/main/templates/AI2_THOR_Full_Starter_Template.ipynb
+---
+## Instructions
 
