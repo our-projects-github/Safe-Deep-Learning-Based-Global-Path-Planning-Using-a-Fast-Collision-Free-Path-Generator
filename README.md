@@ -38,7 +38,13 @@ hello :)
 - <strong> ai2thorgeneratesamlpes: </strong> contain functions that generates sample points from free-space in the environment.
     
     
-- <strong> ai2thorcreatedata: </strong> contain functions that creates any amount of data that is needed for the desired environment.
+- <strong> ai2thorcreatedata: </strong> contain functions that creates any amount of path data that is needed using GB method for the desired environment.
+    
+    
+- <strong> ai2thorprocessdata: </strong> selects functions that selects the required input and output of the LSTM network using the path create by the GB method.
+    
+    
+ 
     
     
     
