@@ -26,7 +26,7 @@
 
 ### Explanation
 
- In this repository we share the codes of the mentioned paper with you. in this project we present a safe deep learning based path planning method 
+ This repository share the implementation of "Safe Deep Learning-Based Global Path Planning Using a Fast Collision-Free Path Generator". in this project we present a safe deep learning based path planning method 
 
 
   
