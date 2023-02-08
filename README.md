@@ -16,6 +16,15 @@
         <img src="https://img.shields.io/badge/Google Scholar-Link-blue"> </a> <a href="https://github.com/erfan-ashtari" target="_blank">
         <img src="https://img.shields.io/badge/github-Link-darkblue">
 
+<div align = center>
+  
+## Instructions
+
+<div align = left>
+  
+hello :)
+    dalam :)
+    
 ## References
 #### 🤖 AI2THOR
 - Link:   </a> <a href="https://ai2thor.allenai.org/" target="_blank">
@@ -25,10 +34,4 @@
 - Link:  </a> <a href="https://colab.research.google.com/github/allenai/ai2thor-colab/blob/main/templates/AI2_THOR_Full_Starter_Template.ipynb" target="_blank">
         <img src="https://img.shields.io/badge/AI2THOR-Google Colab-green">
 ---
-<div align = center>
-  
-## Instructions
 
-<div align = left>
-  
-hello :)
