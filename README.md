@@ -52,7 +52,7 @@ At first, it gets the number of your desired environment between 194 different A
 
 <strong>Use it for simulating a sample path in AI2THOR environment.</strong>
 
-afdfda
+this notebook runs the simulation of AI2THOR on a path that you can create using a pre-trained model. the output of this noteboke contains 3 videos of the robot movement from different point of views.
 
 #### 📁 AI2THOR_py    
     
