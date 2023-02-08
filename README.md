@@ -1,28 +1,7 @@
 # <p align="center">Safe Deep Learning-Based Global Path Planning Using a Fast Collision-Free Path Generator
-
-<a href="https://github.com/our-projects-github/Safe-Deep-Learning-Based-Global-Path-Planning-Using-a-Fast-Collision-Free-Path-Generator"><img src="https://www.linkpicture.com/q/cover_8.png" type="image"></a>
-<h2 align="center"><em>Run AI2-THOR on the Cloud using Google Colab</em></h2>
-
-<p align="center">
-    <a href="//github.com/allenai/ai2thor/blob/main/LICENSE">
-        <img alt="License" src="https://img.shields.io/github/license/allenai/ai2thor.svg?color=blue">
-    </a>
-    <a href="https://ai2thor.allenai.org/" target="_blank">
-        <img src="https://img.shields.io/badge/ai2thor-website-blue">
-    </a>
-    <a href="https://github.com/allenai/ai2thor" target="_blank">
-        <img src="https://img.shields.io/badge/ai2thor-github-green">
-    </a>
-    <a href="https://colab.research.google.com/github/allenai/ai2thor-colab/blob/main/templates/AI2_THOR_Full_Starter_Template.ipynb" target="_blank">
-        <img src="https://img.shields.io/badge/colab-full&nbsp;template-orange">
-    </a>
-    <a href="https://colab.research.google.com/github/allenai/ai2thor-colab/blob/main/templates/AI2_THOR_Minimal_Starter_Template.ipynb" target="_blank">
-        <img src="https://img.shields.io/badge/colab-minimal&nbsp;template-orange">
-    </a>
-</p>
-
-
-
+<a href='https://github.com/our-projects-github/Safe-Deep-Learning-Based-Global-Path-Planning-Using-a-Fast-Collision-Free-Path-Generator'><img src='https://www.linkpicture.com/q/cover_9.png' type='image'></a>
+---
+    
 #### 📃 paper
 - Link:  </a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4170011" target="_blank">
         <img src="https://img.shields.io/badge/Paper-Link-orange">
