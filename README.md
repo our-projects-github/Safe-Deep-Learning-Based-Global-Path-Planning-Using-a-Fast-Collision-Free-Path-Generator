@@ -32,8 +32,12 @@ khar
 # Instructions
 
 <div align = left>
-  
-#### AI2THOR_py    
+    
+#### 📁main 
+
+#### 📁main_test a smple  
+    
+#### 📁AI2THOR_py    
     
 - <strong> ai2thormap: </strong> creates map contains obstacle polygons for AI2THOR environments
     
