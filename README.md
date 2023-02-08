@@ -41,13 +41,19 @@ hello :)
 - <strong> ai2thorcreatedata: </strong> contain functions that creates any amount of path data that is needed using GB method for the desired environment.
     
     
-- <strong> ai2thorprocessdata: </strong> selects functions that selects the required input and output of the LSTM network using the path create by the GB method.
+- <strong> ai2thorprocessdata: </strong> contains functions that selects the required input and output of the LSTM network using the path create by the GB method.
+        
+    
+- <strong> ai2thorloss: </strong> tensorflow implementation of the MSE-NER and keras implementation of the MSE loss functions.
     
     
- 
+- <strong> ai2thorloss: </strong> implementation of the LSTM network (OracleNet) used for path planning.
     
     
+- <strong> ai2thortrain: </strong> contains functions that train the LSTM network using the processed data created by GB method and save the model.
     
+    
+- <strong> ai2thortest: </strong> contains functions that evaluate the trained model for the desired as well as random start and goal points.
 
     
     
