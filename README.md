@@ -62,7 +62,7 @@ khar
 - <strong> ai2thortest: </strong> contains functions that evaluate the trained model for the desired as well as random start and goal points.
     
 
-- <strong> AI2THOR_PATH2GIF: </strong> Simulates the Robot movement in an AI2THOR environment for an input path and creates a video from it.
+- <strong> AI2THOR_PATH2GIF: </strong> Simulates the Robot movement in an AI2THOR environment.
     
     
     
