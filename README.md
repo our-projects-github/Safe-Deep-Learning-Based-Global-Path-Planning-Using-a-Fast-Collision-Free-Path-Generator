@@ -32,10 +32,11 @@ khar
 # Instructions
 
 <div align = left>
+       
     
-#### 📁main 
+#### 📄main 
 
-#### 📁main_test a smple  
+#### 📄main_test a smple  
     
 #### 📁AI2THOR_py    
     
