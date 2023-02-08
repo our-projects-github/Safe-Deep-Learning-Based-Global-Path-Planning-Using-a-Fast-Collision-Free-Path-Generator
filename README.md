@@ -1,5 +1,5 @@
 # <p align="center">Safe Deep Learning-Based Global Path Planning Using a Fast Collision-Free Path Generator
-<a href='https://github.com/our-projects-github/Safe-Deep-Learning-Based-Global-Path-Planning-Using-a-Fast-Collision-Free-Path-Generator'><img src='https://www.linkpicture.com/q/cover_9.png' type='image'></a>
+<a href='https://github.com/our-projects-github/Safe-Deep-Learning-Based-Global-Path-Planning-Using-a-Fast-Collision-Free-Path-Generator'><img src='https://www.linkpicture.com/q/cover_10.png' type='image'></a>
 ---
     
 #### 📃 paper
