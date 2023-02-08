@@ -1,7 +1,6 @@
 # <p align="center">Safe Deep Learning-Based Global Path Planning Using a Fast Collision-Free Path Generator
 
-<p align="center"><img width="80%" src="https://raw.githubusercontent.com/allenai/ai2thor-colab/main/doc/static/cover.svg" /></p>
-
+<a href="https://github.com/our-projects-github/Safe-Deep-Learning-Based-Global-Path-Planning-Using-a-Fast-Collision-Free-Path-Generator"><img src="https://www.linkpicture.com/q/cover_8.png" type="image"></a>
 <h2 align="center"><em>Run AI2-THOR on the Cloud using Google Colab</em></h2>
 
 <p align="center">
