@@ -38,7 +38,7 @@
 2. use the main or main_test a sample notebooks. 
 3. In the second cell of the notebooks, you can change the root directory for accessing AI2THOR_py folder.
 
-       
+---       
     
 ### 📄 main 
 
@@ -46,7 +46,7 @@
 <br> 
 At first, it gets the number of your desired environment between 194 different AI2THOR environments. Then it creates a map containing polygonal obstacles
 
- 
+---
 
 ### 📄 main_test a smple  
 
@@ -54,6 +54,8 @@ At first, it gets the number of your desired environment between 194 different A
 <br> 
 this notebook runs the simulation of AI2THOR on a path that you can create using a pre-trained model. the output of this noteboke contains 3 videos of the robot movement from different point of views.
 
+---
+    
 ### 📁 AI2THOR_py    
     
 - <strong> ai2thormap: </strong> creates map contains obstacle polygons for AI2THOR environments
