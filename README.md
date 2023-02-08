@@ -1,5 +1,10 @@
 # <p align="center">Safe Deep Learning-Based Global Path Planning Using a Fast Collision-Free Path Generator
+<div align = center>
 <a href='https://github.com/our-projects-github/Safe-Deep-Learning-Based-Global-Path-Planning-Using-a-Fast-Collision-Free-Path-Generator'><img src='https://www.linkpicture.com/q/cover_10.png' type='image'></a>
+<div align = center>
+<a href='https://github.com/allenai/ai2thor-colab'><img src='https://www.linkpicture.com/q/cover_ai2thor.png' type='image'></a>
+<div align = left>
+    
 ---
     
 #### 📃 paper
