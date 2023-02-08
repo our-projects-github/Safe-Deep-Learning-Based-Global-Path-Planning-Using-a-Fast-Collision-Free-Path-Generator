@@ -35,6 +35,9 @@ khar
   
 #### AI2THOR_py    
     
+- <strong> ai2thormap: </strong> creates map contains obstacle polygons for AI2THOR environments
+    
+    
 - <strong> ai2thorgeneratepatches: </strong> contain a function that displays polygons of the considered environment in AI2THOR.
     
 
@@ -57,7 +60,9 @@ khar
     
     
 - <strong> ai2thortest: </strong> contains functions that evaluate the trained model for the desired as well as random start and goal points.
+    
 
+- <strong> AI2THOR_PATH2GIF: </strong> Simulates the Robot movement in an AI2THOR environment for an input path and creates a video from it.
     
     
     
@@ -65,7 +70,8 @@ khar
 ## References
 #### 🤖 AI2THOR
 - Link:   </a> <a href="https://ai2thor.allenai.org/" target="_blank">
-        <img src="https://img.shields.io/badge/AI2THOR-Website-green">
+        <img src="https://img.shields.io/badge/AI2THOR-Website-green"> </a> <a href="https://github.com/allenai/ai2thor-colab" target="_blank">
+        <img src="https://img.shields.io/badge/AI2THOR-Github-darkgreen">
 
 #### 🦾 AI2THOR Full-Starter
 - Link:  </a> <a href="https://colab.research.google.com/github/allenai/ai2thor-colab/blob/main/templates/AI2_THOR_Full_Starter_Template.ipynb" target="_blank">
