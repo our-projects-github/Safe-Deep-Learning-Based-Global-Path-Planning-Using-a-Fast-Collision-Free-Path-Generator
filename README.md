@@ -26,6 +26,15 @@ hello :)
     dalam :)
         gooshim khamoosh boode alan miam
     
+    
+- <strong> ai2thorgeneratepatches: </strong> contain a function that displays polygons of the considered environment in AI2THOR.
+    
+
+- <strong> ai2thorgeneratepatches: </strong> contain functions that generate sample points from free-space in the environment.
+    
+    
+    
+    
 ## References
 #### 🤖 AI2THOR
 - Link:   </a> <a href="https://ai2thor.allenai.org/" target="_blank">
