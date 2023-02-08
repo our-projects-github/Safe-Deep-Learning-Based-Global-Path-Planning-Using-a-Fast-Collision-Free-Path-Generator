@@ -25,7 +25,7 @@
 
 #### Explanation
 
- 
+ In this repository we share the codes of the mentioned paper with you. in this project we present a safe deep learning based path planning method 
 
 <div align = center>
   
