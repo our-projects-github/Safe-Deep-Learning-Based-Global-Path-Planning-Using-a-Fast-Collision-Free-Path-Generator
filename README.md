@@ -24,17 +24,24 @@
 ---
 
 #### Explanation
-khar
 
+ 
 
 <div align = center>
   
 # Instructions
+   
 
-<div align = left>
+<div align = left> 
+
+First, clone the repository in your google drive. Then, use the main or main_test a sample notebooks.
+   
+In the second cell of the notebooks, you can change the root directory
        
     
 #### 📄main 
+    
+ 
 
 #### 📄main_test a smple  
     
