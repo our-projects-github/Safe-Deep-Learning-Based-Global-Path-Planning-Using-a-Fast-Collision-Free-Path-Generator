@@ -3,58 +3,58 @@
 <div align = center>
 <a href='https://github.com/allenai/ai2thor-colab'><img src='https://www.linkpicture.com/q/cover_ai2thor.png' type='image'></a>
 <div align = left>
-
-# <p align="center">Safe Deep Learning-Based Global Path Planning Using a Fast Collision-Free Path Generator
     
-#### 📃 paper
+---
+    
+# <p align="center"> <fon>Safe Deep Learning-Based Global Path Planning Using a Fast Collision-Free Path Generator</strong>
+    
+### 📃 paper
 - Link:  </a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4170011" target="_blank">
         <img src="https://img.shields.io/badge/Paper-Link-orange">
 
-#### 📝 Authors
+### 📝 Authors
 
-1. Shirin Chehelgami:   </a> <a href="https://scholar.google.com/citations?hl=en&user=9o7mR3oAAAAJ" target="_blank">
+1. <strong>Shirin Chehelgami:</strong>   </a> <a href="https://scholar.google.com/citations?hl=en&user=9o7mR3oAAAAJ" target="_blank">
         <img src="https://img.shields.io/badge/Google Scholar-Link-blue"> </a> <a href="https://github.com/shirin-chehelgami" target="_blank">
         <img src="https://img.shields.io/badge/github-Link-darkblue">
 
-2. Erfan Ashtari:  </a> <a href="https://scholar.google.com/citations?user=HAQgK8UAAAAJ&hl=en" target="_blank">
+2. <strong>Erfan Ashtari:</strong>  </a> <a href="https://scholar.google.com/citations?user=HAQgK8UAAAAJ&hl=en" target="_blank">
         <img src="https://img.shields.io/badge/Google Scholar-Link-blue"> </a> <a href="https://github.com/erfan-ashtari" target="_blank">
         <img src="https://img.shields.io/badge/github-Link-darkblue">
 
 ---
 
-#### Explanation
+### Explanation
 
  In this repository we share the codes of the mentioned paper with you. in this project we present a safe deep learning based path planning method 
 
-<div align = center>
+
   
 # Instructions
    
 
-<div align = left> 
-
-#### ⚙ Usage Steps
+### ⚙ Usage Steps
 1. clone the repository in your google drive. 
 2. use the main or main_test a sample notebooks. 
 3. In the second cell of the notebooks, you can change the root directory for accessing AI2THOR_py folder.
 
        
     
-#### 📄 main 
+### 📄 main 
 
 <strong>Use it for doing all the project from the scratch.</strong>
-
+<br> 
 At first, it gets the number of your desired environment between 194 different AI2THOR environments. Then it creates a map containing polygonal obstacles
 
  
 
-#### 📄 main_test a smple  
+### 📄 main_test a smple  
 
 <strong>Use it for simulating a sample path in AI2THOR environment.</strong>
-
+<br> 
 this notebook runs the simulation of AI2THOR on a path that you can create using a pre-trained model. the output of this noteboke contains 3 videos of the robot movement from different point of views.
 
-#### 📁 AI2THOR_py    
+### 📁 AI2THOR_py    
     
 - <strong> ai2thormap: </strong> creates map contains obstacle polygons for AI2THOR environments
     
@@ -88,7 +88,12 @@ this notebook runs the simulation of AI2THOR on a path that you can create using
     
     
     
-## References
+
+  
+# References
+
+    
+    
 #### 🤖 AI2THOR
 - Link:   </a> <a href="https://ai2thor.allenai.org/" target="_blank">
         <img src="https://img.shields.io/badge/AI2THOR-Website-green"> </a> <a href="https://github.com/allenai/ai2thor-colab" target="_blank">
