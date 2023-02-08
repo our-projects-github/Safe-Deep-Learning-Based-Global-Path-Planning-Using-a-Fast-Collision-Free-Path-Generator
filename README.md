@@ -16,7 +16,7 @@
         <img src="https://img.shields.io/badge/Google Scholar-Link-blue"> </a> <a href="https://github.com/erfan-ashtari" target="_blank">
         <img src="https://img.shields.io/badge/github-Link-darkblue">
 
-## Refrences
+## References
 #### 🤖 AI2THOR
 - Link:   </a> <a href="https://ai2thor.allenai.org/" target="_blank">
         <img src="https://img.shields.io/badge/AI2THOR-Website-green">
