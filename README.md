@@ -34,17 +34,27 @@
 
 <div align = left> 
 
-First, clone the repository in your google drive. Then, use the main or main_test a sample notebooks.
-   
-In the second cell of the notebooks, you can change the root directory
+#### Steps
+1. clone the repository in your google drive. 
+2. use the main or main_test a sample notebooks. 
+3. In the second cell of the notebooks, you can change the root directory for accessing AI2THOR_py folder.
+
        
     
 #### 📄main 
-    
+
+<strong>Use it for doing all the project from the scratch.</strong>
+
+dad
+
  
 
 #### 📄main_test a smple  
-    
+
+<strong>Use it for simulating a sample path in AI2THOR environment.</strong>
+
+afdfda
+
 #### 📁AI2THOR_py    
     
 - <strong> ai2thormap: </strong> creates map contains obstacle polygons for AI2THOR environments
