@@ -8,32 +8,14 @@ Original file is located at
 """
 
 import random
-# from math import cos, sin, atan2
 import matplotlib.path as mplPath
-# import time
 import collections
 import numpy as np
 from matplotlib.patches import Polygon
 from matplotlib.collections import PatchCollection
 import matplotlib.pyplot as plt
 from matplotlib import pylab
-# from multiprocessing import Pool
-# import tensorflow as tf
 import shapely.geometry
-# import descartes
-# from shapely import geometry
-# import numpy.matlib as mat
-# from tqdm import tqdm
-# from keras.models import Sequential, load_model
-# from keras.layers import Dense, Activation, LSTM
-# from keras import optimizers
-# from keras.callbacks import LearningRateScheduler
-# import keras
-# from keras.layers import Dropout
-# from keras import backend as K
-# from tensorflow.python.keras.utils import metrics_utils 
-# from tensorflow.python.ops import math_ops 
-# from tensorflow.python.framework import ops
 
 """# generate patches"""
 
