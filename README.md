@@ -30,7 +30,14 @@ hello :)
 - <strong> ai2thorgeneratepatches: </strong> contain a function that displays polygons of the considered environment in AI2THOR.
     
 
-- <strong> ai2thorgeneratepatches: </strong> contain functions that generate sample points from free-space in the environment.
+- <strong> ai2thorgeneratesamlpes: </strong> contain functions that generates sample points from free-space in the environment.
+    
+    
+- <strong> ai2thorcreatedata: </strong> contain functions that creates any amount of data that is needed for the desired environment.
+    
+    
+    
+
     
     
     
