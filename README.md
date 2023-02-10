@@ -51,15 +51,14 @@ This repository share the implementation of "Safe Deep Learning-Based Global Pat
 
 <strong>Use it for doing all the project from the scratch.</strong>
 <br> 
-At first, it gets the number of your desired environment between 194 different AI2THOR environments. Then it creates a map containing polygonal obstacles and generates as many as path data for training the LSTM model. After that, you can train the model and test how it works for some random starts and goles in the environment. Finally it gives you 3 mp4 files and you can see the the robot movements between a start point and a goal point in the selected environment of AI2THOR framework from different point of views. 
+At first, it gets the number of your desired environment between 194 different AI2THOR environments. Then it creates a map containing polygonal obstacles and generates as many as path data for training the LSTM model. After that, you can train the model and test how it works for some random starts and goals in the environment. Finally it gives you 3 mp4 files and you can see the the robot movements between a start point and a goal point in the selected environment of AI2THOR framework from different point of views. 
 
 ---
 
 ### 📄 main_test a smple  
 
 <strong>Use it for simulating a sample path in AI2THOR environment.</strong>
-<br> 
-this notebook runs the simulation of AI2THOR on a path that you can create using a pre-trained model. the output of this noteboke contains 3 videos of the robot movement from different point of views.
+<br> This notebook runs the simulation of AI2THOR on a path that you can create using a pre-trained model. The output of this noteboke contains 3 videos of the robot movement from different point of views.
 
 ---
     
