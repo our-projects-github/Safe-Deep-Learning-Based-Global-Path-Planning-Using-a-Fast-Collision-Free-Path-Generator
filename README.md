@@ -20,12 +20,14 @@
 ### 📝 Authors
 
 1. <strong>Shirin Chehelgami:</strong>   </a> <a href="https://scholar.google.com/citations?hl=en&user=9o7mR3oAAAAJ" target="_blank">
-        <img src="https://img.shields.io/badge/Google Scholar-Link-blue"> </a> <a href="https://github.com/shirin-chehelgami" target="_blank">
-        <img src="https://img.shields.io/badge/github-Link-darkblue">
+        <img src="https://img.shields.io/badge/Google Scholar-Link-lightblue"> </a> <a href="https://github.com/shirin-chehelgami" target="_blank">
+        <img src="https://img.shields.io/badge/github-Link-blue">
 
 2. <strong>Erfan Ashtari:</strong>  </a> <a href="https://scholar.google.com/citations?user=HAQgK8UAAAAJ&hl=en" target="_blank">
-        <img src="https://img.shields.io/badge/Google Scholar-Link-blue"> </a> <a href="https://github.com/erfan-ashtari" target="_blank">
-        <img src="https://img.shields.io/badge/github-Link-darkblue">
+        <img src="https://img.shields.io/badge/Google Scholar-Link-lightblue"> </a> <a href="https://github.com/erfan-ashtari" target="_blank">
+        <img src="https://img.shields.io/badge/github-Link-blue"> </a> <a href="https://www.linkedin.com/in/erfan-ashtari-60241ba5/" target="_blank">
+        <img src="https://img.shields.io/badge/Linkedin-Link-darkblue"> </a> <a href="https://github.com/erfan-ashtari" target="_blank">
+        <img src="https://img.shields.io/badge/Researchgate-Link-lightgreen">
 
 ---
 
