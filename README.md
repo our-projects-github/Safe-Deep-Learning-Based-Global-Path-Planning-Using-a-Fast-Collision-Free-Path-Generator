@@ -33,7 +33,7 @@
 
 ---
 
-### Explanation
+### 💬 Explanation
 
 This repository share the implementation of "Safe Deep Learning-Based Global Path Planning Using a Fast Collision-Free Path Generator". In this project we present a safe deep learning based global path planning method. this method is based on an LSTM model which predicts paths for desired start and goal points in an enviroment containing polygonal obstacles. For obtaining safe paths which have appropriate distance from obstacles we developed a new loss function that is implemented in this project. You can use both "main" and "main_test a sample" notebooks for your experiments to do the project from scratch or use the pre-traind models. for the simulations the AI2THOR framework has been used and you can test our path planning method on all environments of that. The Results of this project led to publishing 2 papers which you can access from the above links, also in the Gallery section you can see the robot movement for a smple path, which is generated using our method, in an AI2THOR environment.  
   
@@ -119,14 +119,14 @@ this notebook runs the simulation of AI2THOR on a path that you can create using
 
 # Gallery
 
-<strong>Top view:</strong><br>
+🎬 <strong>Top view:</strong><br>
 ![](https://github.com/our-projects-github/Safe-Deep-Learning-Based-Global-Path-Planning-Using-a-Fast-Collision-Free-Path-Generator/blob/main/sample%20videos/Top%20view.gif)
 
-<strong>Top view (Segmented):</strong><br>
+🎬 <strong>Top view (Segmented):</strong><br>
 ![](https://github.com/our-projects-github/Safe-Deep-Learning-Based-Global-Path-Planning-Using-a-Fast-Collision-Free-Path-Generator/blob/main/sample%20videos/Top%20view_Segment.gif)
 
-<strong>Robot eyes view:</strong><br>
+🎬 <strong>Robot eyes view:</strong><br>
 ![](https://github.com/our-projects-github/Safe-Deep-Learning-Based-Global-Path-Planning-Using-a-Fast-Collision-Free-Path-Generator/blob/main/sample%20videos/Robot%20eyes%20view.gif)
 
-<strong>Side view (Fixed camera):</strong><br>
+🎬 <strong>Side view (Fixed camera):</strong><br>
 ![](https://github.com/our-projects-github/Safe-Deep-Learning-Based-Global-Path-Planning-Using-a-Fast-Collision-Free-Path-Generator/blob/main/sample%20videos/Side%20view.gif)
