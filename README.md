@@ -122,11 +122,11 @@ this notebook runs the simulation of AI2THOR on a path that you can create using
 <strong>Top view:</strong><br>
 ![](https://github.com/our-projects-github/Safe-Deep-Learning-Based-Global-Path-Planning-Using-a-Fast-Collision-Free-Path-Generator/blob/main/sample%20videos/Top%20view.gif)
 
-<strong>Top view (segmented):</strong><br>
+<strong>Top view (Segmented):</strong><br>
 ![](https://github.com/our-projects-github/Safe-Deep-Learning-Based-Global-Path-Planning-Using-a-Fast-Collision-Free-Path-Generator/blob/main/sample%20videos/Top%20view_Segment.gif)
 
 <strong>Robot eyes view:</strong><br>
 ![](https://github.com/our-projects-github/Safe-Deep-Learning-Based-Global-Path-Planning-Using-a-Fast-Collision-Free-Path-Generator/blob/main/sample%20videos/Robot%20eyes%20view.gif)
 
-<strong>Side view:</strong><br>
+<strong>Side view (Fixed camera):</strong><br>
 ![](https://github.com/our-projects-github/Safe-Deep-Learning-Based-Global-Path-Planning-Using-a-Fast-Collision-Free-Path-Generator/blob/main/sample%20videos/Side%20view.gif)
