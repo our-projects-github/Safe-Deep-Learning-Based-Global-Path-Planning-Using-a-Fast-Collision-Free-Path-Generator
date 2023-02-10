@@ -118,6 +118,15 @@ At first, it gets the number of your desired environment between 194 different A
 
 # Gallery
 
+🖼 <strong>Selected AI2THOR environment:</strong><br>    
+<img src='https://github.com/our-projects-github/Safe-Deep-Learning-Based-Global-Path-Planning-Using-a-Fast-Collision-Free-Path-Generator/blob/main/sample%20videos/AI2THOR_environment.png' type='image'></a>    
+
+🖼 <strong>Obtained map:</strong><br>    
+<img src='https://github.com/our-projects-github/Safe-Deep-Learning-Based-Global-Path-Planning-Using-a-Fast-Collision-Free-Path-Generator/blob/main/sample%20videos/map.png' type='image'></a>  
+ 
+🖼 <strong>generaed path:</strong><br>    
+<img src='https://github.com/our-projects-github/Safe-Deep-Learning-Based-Global-Path-Planning-Using-a-Fast-Collision-Free-Path-Generator/blob/main/sample%20videos/path.png' type='image'></a>  
+    
 🎬 <strong>Top view:</strong><br>
 ![](https://github.com/our-projects-github/Safe-Deep-Learning-Based-Global-Path-Planning-Using-a-Fast-Collision-Free-Path-Generator/blob/main/sample%20videos/Top%20view.gif)
 
