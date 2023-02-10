@@ -124,7 +124,7 @@ At first, it gets the number of your desired environment between 194 different A
 🎬 <strong>Top view (Segmented):</strong><br>
 ![](https://github.com/our-projects-github/Safe-Deep-Learning-Based-Global-Path-Planning-Using-a-Fast-Collision-Free-Path-Generator/blob/main/sample%20videos/Top%20view_Segment.gif)
 
-🎬 <strong>Robot eyes view:</strong><br>
+🎬 <strong>Robot view:</strong><br>
 ![](https://github.com/our-projects-github/Safe-Deep-Learning-Based-Global-Path-Planning-Using-a-Fast-Collision-Free-Path-Generator/blob/main/sample%20videos/Robot%20eyes%20view.gif)
 
 🎬 <strong>Side view (Fixed camera):</strong><br>
