@@ -21,12 +21,14 @@
 
 1. <strong>Shirin Chehelgami:</strong>   </a> <a href="https://scholar.google.com/citations?hl=en&user=9o7mR3oAAAAJ" target="_blank">
         <img src="https://img.shields.io/badge/Google Scholar-Link-lightblue"> </a> <a href="https://github.com/shirin-chehelgami" target="_blank">
-        <img src="https://img.shields.io/badge/github-Link-blue">
-
+        <img src="https://img.shields.io/badge/github-Link-blue"> </a> <a href="https://www.linkedin.com/in/shirin-chehelgami-208568148/" target="_blank">
+        <img src="https://img.shields.io/badge/Linkedin-Link-darkblue"> </a> <a href="https://www.researchgate.net/profile/Shirin-Chehelgami" target="_blank">
+        <img src="https://img.shields.io/badge/Researchgate-Link-lightgreen">
+    
 2. <strong>Erfan Ashtari:</strong>  </a> <a href="https://scholar.google.com/citations?user=HAQgK8UAAAAJ&hl=en" target="_blank">
         <img src="https://img.shields.io/badge/Google Scholar-Link-lightblue"> </a> <a href="https://github.com/erfan-ashtari" target="_blank">
         <img src="https://img.shields.io/badge/github-Link-blue"> </a> <a href="https://www.linkedin.com/in/erfan-ashtari-60241ba5/" target="_blank">
-        <img src="https://img.shields.io/badge/Linkedin-Link-darkblue"> </a> <a href="https://github.com/erfan-ashtari" target="_blank">
+        <img src="https://img.shields.io/badge/Linkedin-Link-darkblue"> </a> <a href="https://www.researchgate.net/profile/Erfan-Ashtari" target="_blank">
         <img src="https://img.shields.io/badge/Researchgate-Link-lightgreen">
 
 ---
