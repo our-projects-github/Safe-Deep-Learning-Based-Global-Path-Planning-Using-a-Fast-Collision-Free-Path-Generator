@@ -8,10 +8,15 @@
     
 # <p align="center"> <fon>Safe Deep Learning-Based Global Path Planning Using a Fast Collision-Free Path Generator</strong>
     
-### 📃 paper
-- Link:  </a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4170011" target="_blank">
+### 📃 papers
+- Safe Deep Learning-Based Global Path Planning Using a Fast Collision-Free Path Generator:  </a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4170011" target="_blank"><img src="https://img.shields.io/badge/Paper-Link-red"> </a>
+    
+- Synergy of Deep Learning and Artificial Potential Field Methods for Robot Path Planning in the Presence of Static and Dynamic Obstacles:  <a href="https://ieeexplore.ieee.org/document/9827047   " target="_blank">
         <img src="https://img.shields.io/badge/Paper-Link-red">
+    
+    
 
+ 
 ### 📝 Authors
 
 1. <strong>Shirin Chehelgami:</strong>   </a> <a href="https://scholar.google.com/citations?hl=en&user=9o7mR3oAAAAJ" target="_blank">
@@ -94,8 +99,8 @@ this notebook runs the simulation of AI2THOR on a path that you can create using
   
 # References
 
-#### 📝 Reference paper:  Neural Path Planning: Fixed Time, Near-Optimal Path Generation via Oracle Imitation  
-- Link:   </a> <a href="https://ieeexplore.ieee.org/abstract/document/8968089" target="_blank">
+#### 📃 Reference paper   
+- Neural Path Planning: Fixed Time, Near-Optimal Path Generation via Oracle Imitation :   </a> <a href="https://ieeexplore.ieee.org/abstract/document/8968089" target="_blank">
         <img src="https://img.shields.io/badge/IEEE-Link-darkblue"> </a> <a href="https://arxiv.org/abs/1904.11102" target="_blank">
         <img src="https://img.shields.io/badge/Arxiv-Link-blue">
 
