@@ -42,7 +42,7 @@ This repository share the implementation of "Safe Deep Learning-Based Global Pat
 
 ### ⚙ Usage Steps
 1. clone the repository in your google drive. 
-2. use the main or main_test a sample notebooks. 
+2. use the "main" or "main_test a sample" notebooks. 
 3. In the second cell of the notebooks, you can change the root directory for accessing AI2THOR_py folder.
 
 ---       
