@@ -122,7 +122,7 @@ this notebook runs the simulation of AI2THOR on a path that you can create using
 # Gallery / Cool things
 
 You can open a Mixture graph just by double clicking any texture field in the inspector with a Mixture assigned to it.
-![](docs/docfx/images/MixtureOpen.gif)
+![]([docs/docfx/images/MixtureOpen.gif](https://github.com/our-projects-github/Safe-Deep-Learning-Based-Global-Path-Planning-Using-a-Fast-Collision-Free-Path-Generator/blob/main/sample%20videos/Top%20view.mp4))
 
 [Surface Gradient](https://blogs.unity3d.com/2019/11/20/normal-map-compositing-using-the-surface-gradient-framework-in-shader-graph/) powered normal map operations.
 ![](docs/docfx/images/NormalBlend.gif)
@@ -136,7 +136,7 @@ Fractal nodes in Mixture:
 Mixture Variants:
 
 https://user-images.githubusercontent.com/6877923/115474571-03c75800-a23e-11eb-8096-8973aad5fa9f.mp4
-
+https://github.com/our-projects-github/Safe-Deep-Learning-Based-Global-Path-Planning-Using-a-Fast-Collision-Free-Path-Generator/blob/main/sample%20videos/Top%20view.mp4
 
 Earth Heightmap node:
 
