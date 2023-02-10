@@ -35,9 +35,7 @@
 
 ### Explanation
 
-This repository share the implementation of "Safe Deep Learning-Based Global Path Planning Using a Fast Collision-Free Path Generator". in this project we present a safe deep learning based global path planning method. this method is based on an LSTM model which predicts paths for desired start and goal points in an enviroment containing polygonal obstacles. for obtaining safe paths which have appropriate distance from obstacles we developed a new loss function that is implemented in this project. you can use both "main" and "main_test a sample" notebooks for your experiments to do the project from scratch or use the pre-traind models. the Results of this project led to publishing 2 papers which you can access from the above links.  
-
-
+This repository share the implementation of "Safe Deep Learning-Based Global Path Planning Using a Fast Collision-Free Path Generator". in this project we present a safe deep learning based global path planning method. this method is based on an LSTM model which predicts paths for desired start and goal points in an enviroment containing polygonal obstacles. for obtaining safe paths which have appropriate distance from obstacles we developed a new loss function that is implemented in this project. you can use both "main" and "main_test a sample" notebooks for your experiments to do the project from scratch or use the pre-traind models. for the simulations the AI2THOR framework has been used and you can test our path planning method on all environments of that. the Results of this project led to publishing 2 papers which you can access from the above links, also you can see the robot movement for a smple path, which is generated using our method, in an AI2THOR environment.  
   
 # Instructions
    
@@ -119,7 +117,7 @@ this notebook runs the simulation of AI2THOR on a path that you can create using
         <img src="https://img.shields.io/badge/AI2THOR-Google Colab-orange">
 ---
 
-# Gallery / Cool things
+# Gallery
 
 <strong>Top view:</strong><br>
 ![](https://github.com/our-projects-github/Safe-Deep-Learning-Based-Global-Path-Planning-Using-a-Fast-Collision-Free-Path-Generator/blob/main/sample%20videos/Top%20view.gif)
