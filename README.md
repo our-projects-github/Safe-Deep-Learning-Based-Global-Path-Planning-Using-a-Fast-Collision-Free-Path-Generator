@@ -38,7 +38,6 @@ The implementation of "Safe Deep Learning-Based Global Path Planning Using a Fas
 
 
 
-This repository share the implementation of "Safe Deep Learning-Based Global Path Planning Using a Fast Collision-Free Path Generator". In this project we present a safe deep learning based global path planning method. this method is based on an LSTM model which predicts paths for desired start and goal points in an enviroment containing polygonal obstacles. For obtaining safe paths which have appropriate distance from obstacles we developed a new loss function that is implemented in this project. You can use both "main" and "main_test a sample" notebooks for your experiments to do the project from scratch or use the pre-traind models. for the simulations the AI2THOR framework has been used and you can test our path planning method on all environments of that. The Results of this project led to publishing 2 papers which you can access from the above links, also in the Gallery section you can see the robot movement for a smple path, which is generated using our method, in an AI2THOR environment.  
   
 # Instructions
    
@@ -54,10 +53,8 @@ This repository share the implementation of "Safe Deep Learning-Based Global Pat
 
 <strong>Use it for doing all the project from the scratch.</strong>
 <br> 
-It first determines the number of your desired environment from among the 194 AI2THOR environments. Then it generates a map with polygonal obstacles and any number of path data appropriate for training the LSTM model. After that, you can train the model and see how it performs in the environment for some random starts and goals. Finally, it provides three mp4 files in which you can view the robot's movements between a start point and a goal point in the AI2THOR framework's selected environment from various points of view.
+At first, it gets the number of your desired environment between 194 different AI2THOR environments. Then it creates a map containing polygonal obstacles and generates as many as path data that is needed for training the LSTM model. After that, you can train the model and see how it performs in the environment for some random starts and goals. Finally, it provides three mp4 files in which you can see the robot's movements between a start point and a goal point in the AI2THOR framework's selected environment from various points of view.
 
-
-At first, it gets the number of your desired environment between 194 different AI2THOR environments. Then it creates a map containing polygonal obstacles and generates as many as path data for training the LSTM model. After that, you can train the model and test how it works for some random starts and goals in the environment. Finally it gives you 3 mp4 files and you can see the the robot movements between a start point and a goal point in the selected environment of AI2THOR framework from different point of views. 
 
 ---
 
