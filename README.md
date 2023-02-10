@@ -61,10 +61,8 @@ At first, it gets the number of your desired environment between 194 different A
 ### 📄 main_test a smple  
 
 <strong>Use it for simulating a sample path in AI2THOR environment.</strong>
-<br>  This notebooke's output includes three videos of the robot's movement from various points of view.
-
-
-This notebook runs the simulation of AI2THOR on a path that you can create using a pre-trained model????????? The output of this noteboke contains 3 videos of the robot movement from different point of views.
+<br>  
+This notebook includes just final steps of the "main" notebook and enables you to simulate the robot movements. You can generate a sample path for the robot using a pre-trained model. The notebook's output contains three videos of the robot's movement from various points of view.
 
 ---
     
