@@ -10,7 +10,7 @@
     
 ### 📃 paper
 - Link:  </a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4170011" target="_blank">
-        <img src="https://img.shields.io/badge/Paper-Link-orange">
+        <img src="https://img.shields.io/badge/Paper-Link-red">
 
 ### 📝 Authors
 
@@ -94,8 +94,12 @@ this notebook runs the simulation of AI2THOR on a path that you can create using
   
 # References
 
-    
-    
+#### 📝 Reference paper:  Neural Path Planning: Fixed Time, Near-Optimal Path Generation via Oracle Imitation  
+- Link:   </a> <a href="https://ieeexplore.ieee.org/abstract/document/8968089" target="_blank">
+        <img src="https://img.shields.io/badge/IEEE-Link-darkblue"> </a> <a href="https://arxiv.org/abs/1904.11102" target="_blank">
+        <img src="https://img.shields.io/badge/Arxiv-Link-blue">
+
+
 #### 🤖 AI2THOR
 - Link:   </a> <a href="https://ai2thor.allenai.org/" target="_blank">
         <img src="https://img.shields.io/badge/AI2THOR-Website-green"> </a> <a href="https://github.com/allenai/ai2thor-colab" target="_blank">
@@ -103,6 +107,6 @@ this notebook runs the simulation of AI2THOR on a path that you can create using
 
 #### 🦾 AI2THOR Full-Starter
 - Link:  </a> <a href="https://colab.research.google.com/github/allenai/ai2thor-colab/blob/main/templates/AI2_THOR_Full_Starter_Template.ipynb" target="_blank">
-        <img src="https://img.shields.io/badge/AI2THOR-Google Colab-green">
+        <img src="https://img.shields.io/badge/AI2THOR-Google Colab-orange">
 ---
 
