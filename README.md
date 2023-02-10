@@ -53,15 +53,14 @@ The implementation of "Safe Deep Learning-Based Global Path Planning Using a Fas
 
 <strong>Use it for doing all the project from the scratch.</strong>
 <br> 
-At first, it gets the number of your desired environment between 194 different AI2THOR environments. Then it creates a map containing polygonal obstacles and generates as many as path data that is needed for training the LSTM model. After that, you can train the model and see how it performs in the environment for some random starts and goals. Finally, it provides three mp4 files in which you can see the robot's movements between a start point and a goal point in the AI2THOR framework's selected environment from various points of view.
+At first, it asks you for the number of your desired environment between 194 different AI2THOR environments. Then it creates a map containing polygonal obstacles and generates as many as path data that is needed for training the LSTM model. After that, you can train the model and see how it performs in the environment for some random starts and goals. Finally, it provides three mp4 files in which you can see the robot's movements between a start point and a goal point in the AI2THOR framework's selected environment from various points of view.
 
 
 ---
 
 ### 📄 main_test a smple  
 
-<strong>Use it for simulating a sample path in AI2THOR environment.</strong>
-<br>  
+<strong>Use it for simulating a sample path in AI2THOR environment.</strong><br>
 This notebook includes just final steps of the "main" notebook and enables you to simulate the robot movements. You can generate a sample path for the robot using a pre-trained model. The notebook's output contains three videos of the robot's movement from various points of view.
 
 ---
