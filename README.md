@@ -34,6 +34,9 @@
 ---
 
 ### 💬 Explanation
+The implementation of "Safe Deep Learning-Based Global Path Planning Using a Fast Collision-Free Path Generator" is shared in this repository. We present a safe deep learning-based global path planning method in this project. This method is based on an LSTM model that predicts paths for the desired start and goal points in an environment with polygonal obstacles. To predict safe paths with an appropriate distance from obstacles, a new loss function (MSE-NER) is developed. You can conduct experiments in both the "main" and "main test a sample" notebooks to build the project from scratch or to use pre-trained models. The AI2THOR framework is used for the simulations, and you can test our path planning method on all of its environments. The results of this project resulted in the publication of two papers, which you can access via the links above. Additionally, in the Gallery section, you can see the robot movement for a sample path generated using our method in an AI2THOR environment.
+
+
 
 This repository share the implementation of "Safe Deep Learning-Based Global Path Planning Using a Fast Collision-Free Path Generator". In this project we present a safe deep learning based global path planning method. this method is based on an LSTM model which predicts paths for desired start and goal points in an enviroment containing polygonal obstacles. For obtaining safe paths which have appropriate distance from obstacles we developed a new loss function that is implemented in this project. You can use both "main" and "main_test a sample" notebooks for your experiments to do the project from scratch or use the pre-traind models. for the simulations the AI2THOR framework has been used and you can test our path planning method on all environments of that. The Results of this project led to publishing 2 papers which you can access from the above links, also in the Gallery section you can see the robot movement for a smple path, which is generated using our method, in an AI2THOR environment.  
   
@@ -51,6 +54,9 @@ This repository share the implementation of "Safe Deep Learning-Based Global Pat
 
 <strong>Use it for doing all the project from the scratch.</strong>
 <br> 
+It first determines the number of your desired environment from among the 194 AI2THOR environments. Then it generates a map with polygonal obstacles and any number of path data appropriate for training the LSTM model. After that, you can train the model and see how it performs in the environment for some random starts and goals. Finally, it provides three mp4 files in which you can view the robot's movements between a start point and a goal point in the AI2THOR framework's selected environment from various points of view.
+
+
 At first, it gets the number of your desired environment between 194 different AI2THOR environments. Then it creates a map containing polygonal obstacles and generates as many as path data for training the LSTM model. After that, you can train the model and test how it works for some random starts and goals in the environment. Finally it gives you 3 mp4 files and you can see the the robot movements between a start point and a goal point in the selected environment of AI2THOR framework from different point of views. 
 
 ---
@@ -58,25 +64,36 @@ At first, it gets the number of your desired environment between 194 different A
 ### 📄 main_test a smple  
 
 <strong>Use it for simulating a sample path in AI2THOR environment.</strong>
-<br> This notebook runs the simulation of AI2THOR on a path that you can create using a pre-trained model. The output of this noteboke contains 3 videos of the robot movement from different point of views.
+<br>  This notebooke's output includes three videos of the robot's movement from various points of view.
+
+
+This notebook runs the simulation of AI2THOR on a path that you can create using a pre-trained model????????? The output of this noteboke contains 3 videos of the robot movement from different point of views.
 
 ---
     
 ### 📁 AI2THOR_py    
     
-- <strong> ai2thormap: </strong> creates map contains obstacle polygons for AI2THOR environments
+- <strong> ai2thormap: </strong> generates a map with polygonal obstacles for AI2THOR environments.
+
+creates map contains obstacle polygons for AI2THOR environments.
     
     
-- <strong> ai2thorgeneratepatches: </strong> contain a function that displays polygons of the considered environment in AI2THOR.
+- <strong> ai2thorgeneratepatches: </strong> contains a function that displays polygons of the considered environment in AI2THOR.
     
 
-- <strong> ai2thorgeneratesamlpes: </strong> contain functions that generates sample points from free-space in the environment.
+- <strong> ai2thorgeneratesamlpes: </strong> contains functions for generating sample points from the environment's free space.
+
+contain functions that generates sample points from free-space in the environment.
     
     
-- <strong> ai2thorcreatedata: </strong> contain functions that creates any amount of path data that is needed using GB method for the desired environment.
+- <strong> ai2thorcreatedata: </strong> contains functions for generating any amount of path data required for training the LSTM model using the GB method in the desired environment.
+
+contain functions that creates any amount of path data that is needed using GB method for the desired environment.
     
     
-- <strong> ai2thorprocessdata: </strong> contains functions that selects the required input and output of the LSTM network using the path create by the GB method.
+- <strong> ai2thorprocessdata: </strong> contains functions that create the LSTM network's required input and output using the path generated by the GB method.
+
+contains functions that selects the required input and output of the LSTM network using the path create by the GB method.
         
     
 - <strong> ai2thorloss: </strong> tensorflow implementation of the MSE-NER and keras implementation of the MSE loss functions.
@@ -85,10 +102,14 @@ At first, it gets the number of your desired environment between 194 different A
 - <strong> ai2thormodel: </strong> implementation of the LSTM network (OracleNet) used for path planning.
     
     
-- <strong> ai2thortrain: </strong> contains functions that train the LSTM network using the processed data created by GB method and save the model.
+- <strong> ai2thortrain: </strong> contains functions for training the LSTM network with the processed data generated by the GB method and saving the model.
+
+contains functions that train the LSTM network using the processed data created by GB method and save the model.
     
     
-- <strong> ai2thortest: </strong> contains functions that evaluate the trained model for the desired as well as random start and goal points.
+- <strong> ai2thortest: </strong> contains functions for evaluating the trained model for both desired and random start and goal points.
+
+contains functions that evaluate the trained model for the desired as well as random start and goal points.
     
 
 - <strong> AI2THOR_PATH2GIF: </strong> Simulates the Robot movement in an AI2THOR environment.
