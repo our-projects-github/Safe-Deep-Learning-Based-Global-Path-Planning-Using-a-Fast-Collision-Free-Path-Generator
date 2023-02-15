@@ -139,7 +139,7 @@ contains functions that evaluate the trained model for the desired as well as ra
 🖼 <strong>Obtained map:</strong>   
 <img src='https://github.com/our-projects-github/Safe-Deep-Learning-Based-Global-Path-Planning-Using-a-Fast-Collision-Free-Path-Generator/blob/main/sample%20videos/map.png' type='image'></a>  
  
-🖼 <strong>generaed path:</strong>    
+🖼 <strong>generated path:</strong>    
 <img src='https://github.com/our-projects-github/Safe-Deep-Learning-Based-Global-Path-Planning-Using-a-Fast-Collision-Free-Path-Generator/blob/main/sample%20videos/path.png' type='image'></a>  
     
 🎬 <strong>Top view:</strong><br>
